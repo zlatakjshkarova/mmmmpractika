@@ -1,0 +1,20 @@
+body {
+    transition: background 0.3s, color 0.3s;
+    padding: 20px;
+
+}
+
+.dark {
+    background: #5bba86;
+    color: #fff;
+}
+
+.light {
+    background: #fff;
+    color: #4a966c;
+}
+
+button {
+    padding: 8px 15px;
+    margin-top: 10px;
+}
